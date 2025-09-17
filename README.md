@@ -3,7 +3,7 @@
 ## Instructions to use:
 <ul>
 
-<li><strong>Quick Start using requirement.txt</strong> Just run: pip install -r requirements.txt in your command to get all required packages to be installed.<br>
+<li><strong>Package installation</strong> Just run: pip install -r requirements.txt in your command to get all required packages to be installed.<br>
 Please remove folder "venv" if you find it under the main project folder
 </li>
 
