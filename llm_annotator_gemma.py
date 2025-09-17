@@ -11,7 +11,7 @@ import subprocess
 IMAGE_FOLDER = Path("./vg_images")  # folder with images
 OUTPUT_FILE = "annotated_with_objects_gemma.csv"
 #MAX_IMAGES = 200
-MODEL_NAME = "MrScarySpaceCat/gemma3-tools:27b"  # replace with a vision-capable model (e.g., llava:13b, qwen-vl, gemma2-vision)
+MODEL_NAME = "gemma3:27b"  # replace with a vision-capable model (e.g., llava:13b, qwen-vl, gemma2-vision)
 
 # --- Check if model exists in Ollama ---
 try:
